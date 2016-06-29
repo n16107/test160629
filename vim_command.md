@@ -16,8 +16,10 @@
 1. w
 1. e
 1. u
-1. Ctrl + r
-1. p
+1. Ctrl + r - change
+1. p - 
+1. d - 
+1. d - 
 1. r
 1. c
 1. Ctrl + g
